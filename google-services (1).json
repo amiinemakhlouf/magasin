@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "299979237836",
+    "firebase_url": "https://magasin-a4da0-default-rtdb.firebaseio.com",
+    "project_id": "magasin-a4da0",
+    "storage_bucket": "magasin-a4da0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299979237836:android:3cc21f628fb443d4ad1569",
+        "android_client_info": {
+          "package_name": "com.example.magasin1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299979237836-9vsfdn4cmv30b1mmbacm8p6iasp7j71o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.magasin1",
+            "certificate_hash": "5050d060a180a08c5f45cc0da1d53dadb4a1239b"
+          }
+        },
+        {
+          "client_id": "299979237836-5r3e4gv5m948gp0o5qkugru4d820hmkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3o6p3UXHAiSACruk4AiNIYwh7zOl90p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299979237836-5r3e4gv5m948gp0o5qkugru4d820hmkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
